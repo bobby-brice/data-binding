@@ -1,4 +1,4 @@
-# MyFirstApp
+# Databinding in Angular without the use of Services or dependency injection.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
